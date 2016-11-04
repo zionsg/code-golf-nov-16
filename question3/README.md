@@ -17,3 +17,7 @@ Given an input n greater than or equal to 2, write a program/function/generator/
     3: 3, 5, 11, 36, 6, 2, 1
     4: 4, 2, 1
     5: 5, 11, 36, 6, 2, 1
+
+## Discussion
+
+[http://codegolf.stackexchange.com/questions/73128/output-the-juggler-sequence](http://codegolf.stackexchange.com/questions/73128/output-the-juggler-sequence)
