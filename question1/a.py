@@ -1,11 +1,1 @@
-def a(b):
-    x = ""
-    for i in range(len(b)):
-        x += b[i]*(i+1)
-    return x
-
-print(a('xyz'))
-'''
-xyz
-xyyzzz
-'''
+a = lambda b: reduce(lambda i: b[i]*(i+1), range((len(b))), "")
