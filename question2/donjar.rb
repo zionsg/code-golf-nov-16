@@ -1,1 +1,11 @@
-def a x;y=-100;i=0;x.each_with_index do |n,i|;a=x[i-1]||y;b=x[i+1]||y;y=[y,a,b].max if n==0;end;p y;end
+def a x
+  i=0
+  y=nil
+  x.each do
+    a=x[i-1]||y
+    b=x[i+1]||y
+    (y||y=a)&&y=[y,a,b].max if x[i]==0
+    i+=1
+  end
+  p y
+end
