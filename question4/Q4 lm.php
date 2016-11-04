@@ -1,0 +1,1 @@
+function($s,$k){$d="";$a=0;while($k>$a){foreach(range($a,strlen($s),$k) as $f)$d.=$s[$f];$a++;}return $d;}
