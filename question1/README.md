@@ -81,3 +81,7 @@ Altogether, the exploded suffixes of abcde are
     c  eee
      ee
     e
+
+## Discussion
+
+[http://codegolf.stackexchange.com/questions/96271/exploded-suffixes](http://codegolf.stackexchange.com/questions/96271/exploded-suffixes)
