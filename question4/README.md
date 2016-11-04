@@ -45,3 +45,7 @@ More test cases
     "codegolf.stackexchange.com", 4 -> "cg.ccgoooskhemdltea. efaxnc "
     "Pen Pineapple Apple Pen!!!", 7 -> "PeAeeapnnpp! pl!Ple!ie  n P "
     "1,1,2,3,5,8,13,21,34,55,89", 10 -> "18,,,5115,3,2,8,2931 ,, 53 ,4 "
+
+## Discussion
+
+[http://codegolf.stackexchange.com/questions/97904/encode-the-column-cipher](http://codegolf.stackexchange.com/questions/97904/encode-the-column-cipher)
