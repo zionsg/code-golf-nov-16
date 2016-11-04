@@ -1,6 +1,6 @@
 def j(i):
     o = [i]
-    while i != 1:
+    while i > 1:
         if i%2:
             o += [int(pow(i,1.5))]
         else:
