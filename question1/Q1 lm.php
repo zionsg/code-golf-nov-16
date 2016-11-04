@@ -1,0 +1,1 @@
+function($x){while(strlen($x)){$a=str_split($y};$d="";foreach($a as $b => $c)$d.=str_repeat($c, $b+1);echo $d; $x=substr(x,1);}}
