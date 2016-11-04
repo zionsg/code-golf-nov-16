@@ -1,12 +1,9 @@
 def j(i):
-    o = []
-    def a(i, o):
-        o +=  [i]
-        if i == 1:
-            return
+    o = [i]
+    while i != 1:
         if i%2:
-            a(int(pow(i,1.5)), o)
+            o += [int(pow(i,1.5))]
         else:
-            a(int(pow(i,0.5)), o)
-    a(i, o)
+            o += [int(pow(i,0.5))]
+        i = o[-1]
     return o
