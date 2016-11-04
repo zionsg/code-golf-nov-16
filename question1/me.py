@@ -6,4 +6,3 @@ def z(a):
         b = a[i:]
         c += (''.join(b[i] * (i+1) for i in range(len(b)))) + "\n"
     return c
-print(z("asdf"))
