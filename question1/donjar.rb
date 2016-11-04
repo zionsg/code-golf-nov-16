@@ -1,1 +1,1 @@
-$_.each_char.with_index{|t,i|(i+1).times{print t}}
+i=0;$_.inject(''){|a,e|i+=1;a+e*i}
