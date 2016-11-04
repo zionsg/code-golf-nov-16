@@ -23,3 +23,7 @@ Take a vector / list of integers as input, and output the largest number that's 
     
     0 20 
     20
+
+## Discussion
+
+[http://codegolf.stackexchange.com/questions/94028/find-the-largest-number-thats-adjacent-to-a-zero](http://codegolf.stackexchange.com/questions/94028/find-the-largest-number-thats-adjacent-to-a-zero)
