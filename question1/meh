@@ -1,8 +1,0 @@
-def n():
-  l=input(0)
-  k=1
-  a=''
-  for m in l:
-    a+=m*k
-    k+=1
-  print a

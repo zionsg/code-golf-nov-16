@@ -1,1 +1,0 @@
-a = lambda b: reduce(lambda i: b[i]*(i+1), range(len(b)), "")
